@@ -1,0 +1,403 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/7Z6Ey7hMdK42RIDdR0Ogpr364Ze.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 921643,
+      "original_language": "en",
+      "original_title": "A Jazzman's Blues",
+      "overview": "Una historia de amor prohibido y secretos familiares que abarca desde los años 40 a los 80.",
+      "popularity": 142.995,
+      "poster_path": "/hoBQrJgOLB7mgLPT5InDsXOJTEY.jpg",
+      "release_date": "2022-09-16",
+      "title": "Secretos, mentiras, pasiones y jazz",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 59
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        878
+      ],
+      "id": 1010821,
+      "original_language": "en",
+      "original_title": "Groot Takes a Bath",
+      "overview": "Todos necesitamos bañarnos, pero las cosas son algo distintas cuando eres un bebé de Flora Colossi.",
+      "popularity": 405.063,
+      "poster_path": "/lACWuNlnydtamogzgyTgSPmOCiN.jpg",
+      "release_date": "2022-08-10",
+      "title": "Groot se da un baño",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 150
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/akKBMXHEesqfuoYFt7LaRptFAO0.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 139038,
+      "original_language": "en",
+      "original_title": "A Haunted House",
+      "overview": "Una joven pareja, Malcolm (Marlon Wayans) y Kisha (Essence Atkins), se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio.  Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
+      "popularity": 132.64,
+      "poster_path": "/ut5wkSUZkOymYSEYwqoMrm839ek.jpg",
+      "release_date": "2013-01-11",
+      "title": "Paranormal Movie",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 1502
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u2HrA8BMvvHURz5mVOIe9EM1zGx.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 9487,
+      "original_language": "en",
+      "original_title": "A Bug's Life",
+      "overview": "Un grupo de saltamontes liderados por el malvado Hopper y su estúpido hermano Molt asedian la colonia de hormigas todos los veranos para hacerse con la comida almacenada para pasar el invierno. Flik, una hormiga cansada de seguir las reglas del grupo, decide abandonar la colonia en busca de un grupo de mercenarios que los defiendan. Por equivocación, Flik reclutará a una pandilla de artistas de circo.",
+      "popularity": 82.429,
+      "poster_path": "/3zc9gBzw0egrp7lMrE0zqFkNMms.jpg",
+      "release_date": "1998-11-25",
+      "title": "Bichos, una aventura en miniatura",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 7925
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c2cb0lLvbzvHlSUo35W8CfP0kYO.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 714968,
+      "original_language": "de",
+      "original_title": "Plan A",
+      "overview": "Alemania 1945, Max, un sobreviviente judío del Holocausto, se encuentra con un grupo radical de combatientes de la resistencia judíos que, como él, perdieron toda esperanza en su futuro después de que les robaron su existencia y sus familias enteras fueron asesinadas por los nazis. Sueñan con represalias a una escala épica para el pueblo judío. Ojo por ojo, diente por diente. Max comienza a identificarse con los monstruosos planes del grupo ...",
+      "popularity": 68.007,
+      "poster_path": "/bJxghm8NrGEKSkKtlaUzIL8utz0.jpg",
+      "release_date": "2021-08-16",
+      "title": "Plan A",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6Bgd7xihK37b98ERPTvLOqQO1eu.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1005031,
+      "original_language": "en",
+      "original_title": "A Trip to Infinity",
+      "overview": "Eminencias de las matemáticas, la física de partículas y la cosmología exploran el concepto del infinito y sus complejas implicaciones para el universo.",
+      "popularity": 176.311,
+      "poster_path": "/hZwDtTEWXCh8DowjBslp0wjuxST.jpg",
+      "release_date": "2022-09-26",
+      "title": "Un viaje al infinito",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rTlR2oZrmoPyptL0qaLL4QqKfZN.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 997647,
+      "original_language": "en",
+      "original_title": "Legend - A Dragon Ball Tale",
+      "overview": "",
+      "popularity": 184.487,
+      "poster_path": "/58T9B4jiOTyJa6fhsdNoUWKCfpz.jpg",
+      "release_date": "2022-07-06",
+      "title": "Legend - A Dragon Ball Tale",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14,
+        35
+      ],
+      "id": 529203,
+      "original_language": "en",
+      "original_title": "The Croods: A New Age",
+      "overview": "Después de salir de su cueva, los Croods se encuentran con su mayor amenaza desde que se fueron: otra familia llamada Betterman, quienes afirman y demuestran ser mejores y evolucionados. Grug empieza a sospechar de los padres de Betterman, Phil y Hope, ya que planean en secreto separar a su hija Eep con su amado novio Guy para asegurarse de que su hija Dawn tenga un compañero amoroso e inteligente que la proteja.",
+      "popularity": 171.939,
+      "poster_path": "/5uMWKEmegf5aTJnp1u98JF4QerP.jpg",
+      "release_date": "2020-11-25",
+      "title": "Los Croods: Una nueva era",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 3132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        35,
+        878
+      ],
+      "id": 379686,
+      "original_language": "en",
+      "original_title": "Space Jam: A New Legacy",
+      "overview": "Secuela de la cinta original de 1996, Space Jam, protagonizada por Michael Jordan. En esta segunda parte, la super estrella de la NBA es LeBron James, quien queda atrapado junto a su hijo Dom en un extraño lugar, un espacio digital de una fuerza todopoderosa y malvada conocida como A.I. Para volver a casa y poner a salvo a su hijo, el jugador de baloncesto deberá unir fuerzas con Bugs Bunny, Lola Bunny y el resto de personajes de los Looney Tunes para enfrentarse en un partido de baloncesto a los campeones digitalizados por inteligencia artificial.",
+      "popularity": 140.823,
+      "poster_path": "/i6E8fx8lAEI0PGGCUlaA2Ap1gWi.jpg",
+      "release_date": "2021-07-08",
+      "title": "Space Jam: Nuevas Leyendas",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 3312
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/edXuLjxjYu1SkyMHd55hRasME8b.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 636879,
+      "original_language": "en",
+      "original_title": "A Nun's Curse",
+      "overview": "Un grupo de viajeros se ven obligados a buscar refugio dentro de una cárcel abandonada donde una vez se nombró a una famosa monja llamada Sister Monday y se sospechaba que había asesinado a prisioneros.",
+      "popularity": 59.465,
+      "poster_path": "/eutNRwSguV0NCx7BNAXOibWzjP6.jpg",
+      "release_date": "2020-05-12",
+      "title": "A Nun's Curse",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 94
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AlwpixLY6vO0n1F9CA2PTnpUQTD.jpg",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 1028189,
+      "original_language": "es",
+      "original_title": "Los Smiling Friends van a Brazil",
+      "overview": "Los Smiling Friends van a Brazil, Los Smiling Friends finalmente pueden relajarse en un hermoso pueblo costero brasileño; Pim trabaja en su novela; Charlie se da un atracón de programas torrent en su disco duro portátil; Alan y Glep disfrutan de un tiempo de relajación muy esperado en la playa",
+      "popularity": 326.717,
+      "poster_path": "/2DeJlwEB2XrgRriaCKnjG5Z4gEk.jpg",
+      "release_date": "2022-08-06",
+      "title": "Los Smiling Friends van a Brazil",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6gycezbvc8iHSune1Evq79dcYIY.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 184345,
+      "original_language": "en",
+      "original_title": "A Haunted House 2",
+      "overview": "Después de haber exorcizado los demonios de su ex, Malcolm comienza de nuevo con su nueva novia y sus dos hijos. Después de mudarse a la casa de sus sueños, sin embargo, Malcolm está rodeado una vez más por extraños acontecimientos paranormales.",
+      "popularity": 125.301,
+      "poster_path": "/1hWdDGZa58Ulo0uP0mw4EIf85bt.jpg",
+      "release_date": "2014-04-17",
+      "title": "Paranormal Movie 2",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "genre_ids": [
+        27,
+        18,
+        878
+      ],
+      "id": 447332,
+      "original_language": "en",
+      "original_title": "A Quiet Place",
+      "overview": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+      "popularity": 71.624,
+      "poster_path": "/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg",
+      "release_date": "2018-04-03",
+      "title": "Un lugar tranquilo",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 12050
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        18
+      ],
+      "id": 522518,
+      "original_language": "en",
+      "original_title": "A Dog's Journey",
+      "overview": "Narra la historia de Bailey, un perro leal que encuentra el significado de su propia existencia a través de la vida de los humanos a los que les enseña a reír y amar.",
+      "popularity": 47.676,
+      "poster_path": "/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg",
+      "release_date": "2019-05-03",
+      "title": "Tu mejor amigo: Un nuevo viaje",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 1165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iEIcBVnttD9KOnpxtN1adVqKQkv.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 741074,
+      "original_language": "en",
+      "original_title": "Once Upon a Snowman",
+      "overview": "Los primeros días de vida del pequeño Olaf, cuándo y por qué cobra vida y cómo empieza a buscar su propia identidad, después de la huída de Elsa del palacio de Arendelle.",
+      "popularity": 100.674,
+      "poster_path": "/yckfWcCTKEplBCilRdE4d43xowl.jpg",
+      "release_date": "2020-10-23",
+      "title": "Érase una vez un muñeco de nieve",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 451
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rBWF1zHdU2abEfmhAoLMr3PUJC5.jpg",
+      "genre_ids": [
+        878,
+        53,
+        27
+      ],
+      "id": 520763,
+      "original_language": "en",
+      "original_title": "A Quiet Place Part II",
+      "overview": "Tras los fatales acontecimientos sucedidos en la primera parte, la familia Abbot debe enfrentarse a los peligros del mundo exterior mientras luchan en silencio por sobrevivir. Forzados a aventurarse en lo desconocido, pronto se dan cuenta de que las criaturas que cazan orientadas por el sonido no son la única amenaza que acecha más allá del camino de arena. Secuela de la exitosa producción \"Un lugar tranquilo\" (A Quiet Place, 2018).",
+      "popularity": 145.738,
+      "poster_path": "/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg",
+      "release_date": "2021-05-21",
+      "title": "Un lugar tranquilo 2",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4738
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 818647,
+      "original_language": "es",
+      "original_title": "A través de mi ventana",
+      "overview": "Raquel lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista y es que, muy a su pesar, no han intercambiado ni una palabra. Raquel tiene muy claro su objetivo: conseguir que Ares se enamore de ella. Pero ella no es una niña inocente y no está dispuesta a perderlo todo por el camino, y mucho menos a sí misma...",
+      "popularity": 148.735,
+      "poster_path": "/zGnfnPkQRUC1W1R5A8ldI4AfSJu.jpg",
+      "release_date": "2022-02-04",
+      "title": "A través de mi ventana",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2300
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ddVTlMyATZdvUHE7DPExA2X6xF.jpg",
+      "genre_ids": [
+        12,
+        35,
+        14,
+        10751,
+        18
+      ],
+      "id": 381289,
+      "original_language": "en",
+      "original_title": "A Dog's Purpose",
+      "overview": "Toby es un perro que se pregunta el sentido de su vida cuando, sorprendido, se da cuenta de que se ha reencarnado en un cachorrito. Así, a lo largo de sus vidas se cuestionará su sentido mientras ayuda a distintos dueños, pero siempre con el objetivo de encontrarse con el primero.",
+      "popularity": 43.858,
+      "poster_path": "/1vz34upg09Hh9p4aV2Uau19g2bv.jpg",
+      "release_date": "2017-01-19",
+      "title": "Tu mejor amigo",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 2807
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hcNM0HjfPonIzOVy6LVTDBXSfMq.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 864116,
+      "original_language": "en",
+      "original_title": "A Day to Die",
+      "overview": "Después de matar a un miembro del sindicato de la droga mientras protege a una persona en libertad condicional, Connor Connolly tiene un día para pagar dos millones de dólares en reparaciones, dinero que no tiene, a Tyrone Pettis. Se ve obligado a pedirle a su antiguo equipo de operaciones militares, liderado por Brice Mason, que se una y de alguna manera obtenga dos millones de dólares antes de que Connor pierda a todos los que ama.",
+      "popularity": 96.691,
+      "poster_path": "/1lFDVqeys3ARP1pQjQEhhDoKHMY.jpg",
+      "release_date": "2022-03-04",
+      "title": "Un día para morir",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 148
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x53rt95zFbCjfFidDsH6kukMiWz.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 502581,
+      "original_language": "pt",
+      "original_title": "Nada a Perder",
+      "overview": "Biopic autofinanciado del obispo evangélico brasileño Edir Macedo, fundador de la Iglesia Universal del Reino de Dios y propietario de la red Record TV.",
+      "popularity": 55.286,
+      "poster_path": "/awxt51Y6hECLjIC2mRIOKcCG9a1.jpg",
+      "release_date": "2018-03-29",
+      "title": "Nada que perder",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 83
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}

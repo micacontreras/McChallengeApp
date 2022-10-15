@@ -1,0 +1,32 @@
+{
+  "onboarded": "true",
+  "screenInfo": {
+    "image": "https://static.prod.naranjadev.com/merchants/static_qr.png",
+    "title": "Ahora tu negocio tiene su QR, ¡cobrar es más fácil!",
+    "items": [
+      "Enviás el QR, lo imprimís y lo exhibís en el mostrador.",
+      "Tus clientes lo escanean, ingresan el monto a pagar, ¡y listo!",
+      "Las comisiones y los plazos de acreditación son los que ya configuraste. Encontralos siempre en tu Perfil de negocio."
+    ],
+    "buttons": [
+      {
+        "style": "secondary",
+        "label": "Ir a Inicio",
+        "actions": [
+          {
+            "type": "navigate",
+            "data": {
+              "path": "nx://home",
+              "extras": {}
+            }
+          }
+        ]
+      },
+      {
+        "style": "primary",
+        "label": "Enviar QR",
+        "actions": []
+      }
+    ]
+  }
+}
