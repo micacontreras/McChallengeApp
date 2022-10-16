@@ -53,6 +53,9 @@ class BottomSheetDialog : BottomSheetDialogFragment() {
             .error(R.drawable.ic_broken_image)
             .into(binding.image)
 
+        binding.stars.text = "${movie.voteAverage}/10"
+        binding.adult.visibility = if(movie.adult) View.VISIBLE else View.GONE
+        binding.likes.text = getString(R.string.likes, movie.voteCount.toString())
         binding.back.setOnClickListener {
             dialog.dismiss()
         }

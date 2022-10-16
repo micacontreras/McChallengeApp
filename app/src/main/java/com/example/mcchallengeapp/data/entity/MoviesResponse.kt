@@ -16,5 +16,6 @@ data class MoviesResponse(
     @ColumnInfo @SerializedName("poster_path") val posterPath: String,
     @ColumnInfo @SerializedName("release_date") val releaseDate: String,
     @ColumnInfo val title: String,
-    @ColumnInfo @SerializedName("vote_average") val voteAverage: Double
+    @ColumnInfo @SerializedName("vote_average") val voteAverage: Double,
+    @ColumnInfo @SerializedName("vote_count") val voteCount: Double
 )

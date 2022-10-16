@@ -7,5 +7,7 @@
     <string name="favourite_movies_title">Tus películas favoritas</string>
     <string name="add_favourite">Agregar a favoritos</string>
     <string name="added">Agregado!</string>
+    <string name="adults">Para adultos</string>
+    <string name="likes">Me gusta: %1$s</string>
     <string name="delete_favourite">Borrar de favoritos</string>
 </resources>

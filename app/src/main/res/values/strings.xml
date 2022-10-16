@@ -7,6 +7,8 @@
     <string name="favourite_movies_title">Favourite movies</string>
     <string name="add_favourite">Add to favourites</string>
     <string name="added">Added!</string>
+    <string name="adults">For adults</string>
+    <string name="likes">Likes: %1$s</string>
     <string name="delete_favourite">Delete from favourites</string>
 
 </resources>
