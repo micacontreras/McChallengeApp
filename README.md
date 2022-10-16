@@ -1,7 +1,9 @@
 # AD MoviesApp
 
 MoviesApp was created to facilitate the management of favorite movies.
-Allowing to add or remove movies as required 
+Allowing to add or remove movies as required.
+
+The app wil take the language that you have configured in your phone to search movies! Take it into consideration!
 
 ## Features
 
