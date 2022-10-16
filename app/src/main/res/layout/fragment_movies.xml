@@ -29,33 +29,4 @@
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             tools:listitem="@layout/item_movie" />
     </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/message_empty_list_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:visibility="gone"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
-
-        <ImageView
-            android:id="@+id/list_image"
-            android:layout_width="@dimen/wrap_constraint_little_image"
-            android:layout_height="@dimen/wrap_constraint_little_image"
-            android:src="@drawable/ic_broken_image"
-            android:layout_gravity="center_horizontal" />
-
-        <TextView
-            android:id="@+id/list_message"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="@dimen/margin_small"
-            android:layout_marginVertical="@dimen/margin_small"
-            android:textSize="@dimen/textSize"
-            android:textColor="@android:color/white"
-            android:textAlignment="center"
-            tools:text="@string/error_message" />
-    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

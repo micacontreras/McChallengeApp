@@ -14,8 +14,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:paddingHorizontal="@dimen/margin_xxsmall"
-        android:paddingVertical="@dimen/margin_xxsmall">
+        android:padding="@dimen/margin_xxsmall">
 
         <ImageView
             android:id="@+id/item_fav"
@@ -23,6 +22,7 @@
             android:layout_height="wrap_content"
             android:src="@drawable/ic_favorite"
             android:layout_margin="4dp"
+            android:elevation="8dp"
             app:layout_constraintEnd_toEndOf="@+id/item_image"
             app:layout_constraintTop_toTopOf="@+id/item_image" />
 

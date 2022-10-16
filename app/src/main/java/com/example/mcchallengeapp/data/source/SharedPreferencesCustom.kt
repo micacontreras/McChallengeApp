@@ -2,7 +2,6 @@ package com.example.mcchallengeapp.data.source
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.example.mcchallengeapp.data.entity.LanguageOptions
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 
@@ -28,6 +27,6 @@ class SharedPreferencesCustom @Inject constructor(@ApplicationContext val contex
     }
 
     fun fetchLanguage(): String {
-        return prefs.getString(LANGUAGE, LanguageOptions.ES.name).toString()
+        return prefs.getString(LANGUAGE, "es").toString()
     }
 }

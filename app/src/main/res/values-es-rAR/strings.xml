@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">McChallengeApp</string>
+    <string name="app_name">AD Movies App</string>
     <string name="error_message">Ocurrió un error! Por favor ingresa de nuevo mas tarde.</string>
     <string name="empty_favourites">Aún no hay favoritos</string>
     <string name="search">Buscar</string>

@@ -8,7 +8,7 @@ import retrofit2.Response
 
 class ApiServiceLocalDataSource(private val context: Context) : ApiServiceDataSource {
     override suspend fun getMovies(language: String): Response<GenericResponse> {
-        val jsonString = JsonAssetsUtils.getJsonFromAssets(context, "MoviesList.json")
+        val jsonString = JsonAssetsUtils.getJsonFromAssets(context, "screens/MoviesList.json")
         val result = Gson().fromJson(jsonString, GenericResponse::class.java)
         return Response.success(result)
     }
@@ -17,7 +17,7 @@ class ApiServiceLocalDataSource(private val context: Context) : ApiServiceDataSo
         query: String,
         language: String
     ): Response<GenericResponse> {
-        val jsonString = JsonAssetsUtils.getJsonFromAssets(context, "SearchMovieResponse.json")
+        val jsonString = JsonAssetsUtils.getJsonFromAssets(context, "screens/SearchMovieResponse.json")
         val result = Gson().fromJson(jsonString, GenericResponse::class.java)
         return Response.success(result)
     }

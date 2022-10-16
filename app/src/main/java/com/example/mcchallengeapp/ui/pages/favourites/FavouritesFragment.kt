@@ -4,13 +4,10 @@ import android.os.Bundle
 import android.view.*
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.mcchallengeapp.databinding.FragmentFavouritesBinding
 import com.example.mcchallengeapp.ui.adapter.FavouriteMoviesAdapter
-import com.example.mcchallengeapp.ui.dialog.BottomSheetDialog
 import com.example.mcchallengeapp.viewmodel.MoviesViewModel
-import com.example.mcchallengeapp.ui.adapter.ListMoviesAdapter
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -53,9 +50,9 @@ class FavouritesFragment : Fragment() {
     }
 
     private fun registerObservers() {
-        moviesViewModel.movies.observe(viewLifecycleOwner, Observer {
+        moviesViewModel.movies.observe(viewLifecycleOwner) {
             adapter.addMovies(null)
-            if(it.isNullOrEmpty()){
+            if (it.isNullOrEmpty()) {
                 binding.messageEmptyListLayout.visibility = View.VISIBLE
                 binding.recyclerView.visibility = View.GONE
                 binding.loading.visibility = View.GONE
@@ -65,7 +62,7 @@ class FavouritesFragment : Fragment() {
                 binding.recyclerView.visibility = View.VISIBLE
                 binding.loading.visibility = View.GONE
             }
-        })
+        }
     }
 
 }
