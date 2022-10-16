@@ -1,5 +1,6 @@
 package com.example.mcchallengeapp.viewmodel
 
+import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -38,6 +39,7 @@ class MoviesViewModel @Inject constructor(
                 } else _onError.value = true
 
             } catch (e: Exception) {
+                Log.e("Api call with error", "getTopMovies fail")
                 _onError.value = true
             }
         }
@@ -52,6 +54,7 @@ class MoviesViewModel @Inject constructor(
                 } else _onError.value = true
 
             } catch (e: Exception) {
+                Log.e("Api call with error", "getSearchedMovie fail")
                 _onError.value = true
             }
         }
@@ -62,6 +65,7 @@ class MoviesViewModel @Inject constructor(
             try {
                 localRepository.insertFavouriteMovie(moviesResponse)
             } catch (e: Exception) {
+                Log.e("Error in DB", "insert new movie fail")
                 _onError.value = true
             }
         }
@@ -72,6 +76,7 @@ class MoviesViewModel @Inject constructor(
             try {
                 localRepository.deleteFavouriteMovie(movieId)
             } catch (e: Exception) {
+                Log.e("Error in DB", "Delete movie fail")
                 _onError.value = true
             }
         }
@@ -82,6 +87,7 @@ class MoviesViewModel @Inject constructor(
             try {
                 _movies.value = localRepository.getFavouriteMovies()
             } catch (e: Exception) {
+                Log.e("Error in DB", "Get all the favourite movies fail")
                 _onError.value = true
             }
         }
