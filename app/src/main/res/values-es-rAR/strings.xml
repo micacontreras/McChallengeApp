@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AD Movies App</string>
+    <string name="error_message">Ocurrió un error! Por favor ingresa de nuevo mas tarde.</string>
+    <string name="empty_favourites">Aún no hay favoritos</string>
+    <string name="search">Buscar</string>
+    <string name="top_movies_title">Últimas películas</string>
+    <string name="favourite_movies_title">Tus películas favoritas</string>
+    <string name="add_favourite">Agregar a favoritos</string>
+    <string name="added">Agregado!</string>
+    <string name="adults">Para adultos</string>
+    <string name="likes">Me gusta: %1$s</string>
+    <string name="delete_favourite">Borrar de favoritos</string>
+</resources>

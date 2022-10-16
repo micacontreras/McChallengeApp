@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AD Movies App</string>
+    <string name="error_message">We have an error. Please try again!</string>
+    <string name="empty_favourites">No favorites yet</string>
+    <string name="search">Search</string>
+    <string name="top_movies_title">Top movies</string>
+    <string name="favourite_movies_title">Favourite movies</string>
+    <string name="add_favourite">Add to favourites</string>
+    <string name="added">Added!</string>
+    <string name="adults">For adults</string>
+    <string name="likes">Likes: %1$s</string>
+    <string name="delete_favourite">Delete from favourites</string>
+</resources>
