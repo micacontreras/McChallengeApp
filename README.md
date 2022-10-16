@@ -25,3 +25,5 @@ In case that you do not have favourites yet, you will see a message with this in
 <img src=https://user-images.githubusercontent.com/62315596/196022045-50d27d72-eb0e-410c-8fc1-1506daf38b14.png width="200" height="400" />
 
 
+This application has Analythics and Crashlythis using Firebase to monitor the user activity!
+<img width="1511" alt="image" src="https://user-images.githubusercontent.com/62315596/196042774-087196a5-1b05-447a-9d39-54ee96d9e473.png">
