@@ -25,8 +25,8 @@ android {
         targetSdk 32
         versionCode 1
         versionName "1.0"
-
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        
+        testInstrumentationRunner "com.example.mcchallengeapp.CustomTestRunner"
         signingConfig signingConfigs.debug
     }
 
@@ -50,7 +50,7 @@ android {
     }
     android {
         defaultConfig {
-            testInstrumentationRunner = "com.example.mcchallengeapp.HiltTestApplication"
+            testInstrumentationRunner "com.example.mcchallengeapp.base.CustomTestRunner"
         }
     }
     hilt {
