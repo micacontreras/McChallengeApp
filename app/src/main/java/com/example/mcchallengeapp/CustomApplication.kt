@@ -14,5 +14,7 @@ class CustomApplication : Application() {
     override fun onCreate() {
         super.onCreate()
         instance = this
+        throw RuntimeException("Test Crash") // Force a crash
+
     }
 }

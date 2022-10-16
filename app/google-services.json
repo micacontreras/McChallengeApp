@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40355069087",
+    "project_id": "mcchallengeapp",
+    "storage_bucket": "mcchallengeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40355069087:android:d19bedd48ce5d9cd8336aa",
+        "android_client_info": {
+          "package_name": "com.example.mcchallengeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40355069087-lbd4lc68hc44j2dflod4t7i7dmb9l0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRB1xJ2JVThuR-MfN7rH__sRDe0MPqZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40355069087-lbd4lc68hc44j2dflod4t7i7dmb9l0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
