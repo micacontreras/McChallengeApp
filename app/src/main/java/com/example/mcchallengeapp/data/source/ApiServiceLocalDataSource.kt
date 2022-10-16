@@ -7,14 +7,13 @@ import com.google.gson.Gson
 import retrofit2.Response
 
 class ApiServiceLocalDataSource(private val context: Context) : ApiServiceDataSource {
-    override suspend fun getMovies(apiKey: String, language: String): Response<GenericResponse> {
+    override suspend fun getMovies(language: String): Response<GenericResponse> {
         val jsonString = JsonAssetsUtils.getJsonFromAssets(context, "MoviesList.json")
         val result = Gson().fromJson(jsonString, GenericResponse::class.java)
         return Response.success(result)
     }
 
     override suspend fun searchMovie(
-        apiKey: String,
         query: String,
         language: String
     ): Response<GenericResponse> {

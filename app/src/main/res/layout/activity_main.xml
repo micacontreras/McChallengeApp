@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:backgroundTint="#8A3C1C75">
+    android:background="#8A3C1C75">
 
     <com.google.android.material.appbar.MaterialToolbar
         android:id="@+id/toolbar"
@@ -12,6 +12,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        android:theme="@style/toolbarColorText"
         />
 
     <com.google.android.material.tabs.TabLayout
@@ -20,8 +21,8 @@
         android:layout_height="40dp"
         android:background="@android:color/transparent"
         app:tabMode="fixed"
-        app:tabIndicatorColor="@color/white"
-        app:tabTextColor="@color/black"
+        app:tabIndicatorColor="@android:color/white"
+        app:tabTextColor="@android:color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/toolbar"/>

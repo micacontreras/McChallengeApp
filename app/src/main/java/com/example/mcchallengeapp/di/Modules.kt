@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.room.Room
 import com.example.mcchallengeapp.data.repository.ApiServiceRepository
 import com.example.mcchallengeapp.data.source.ApiServiceDataSource
+import com.example.mcchallengeapp.data.source.SharedPreferencesCustom
 import com.example.mcchallengeapp.database.DataBase
 import com.example.mcchallengeapp.service.ApiService
 import com.example.mcchallengeapp.utils.BASE_URL
@@ -86,5 +87,10 @@ object Modules {
     fun createApiService(retrofit: Retrofit): ApiService {
         return retrofit.create(ApiService::class.java)
     }
+
+    @Singleton
+    @Provides
+    fun providesSharedPreferencesCustom(@ApplicationContext context: Context) =
+        SharedPreferencesCustom(context)
 
 }

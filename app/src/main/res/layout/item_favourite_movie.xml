@@ -1,0 +1,53 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/result_item_cardView"
+    android:layout_width="@dimen/item_image_width"
+    android:layout_height="@dimen/item_image_height"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginHorizontal="@dimen/margin_xsmall"
+    android:layout_marginVertical="@dimen/margin_xsmall"
+    android:background="@android:color/white"
+    app:cardCornerRadius="@dimen/card_config"
+    app:cardElevation="@dimen/card_config">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingHorizontal="@dimen/margin_xxsmall"
+        android:paddingVertical="@dimen/margin_xxsmall">
+
+        <ImageView
+            android:id="@+id/item_fav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_favorite"
+            android:layout_margin="4dp"
+            app:layout_constraintEnd_toEndOf="@+id/item_image"
+            app:layout_constraintTop_toTopOf="@+id/item_image" />
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_image_width"
+            app:layout_constraintBottom_toTopOf="@id/item_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/item_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingVertical="@dimen/margin_xxsmall"
+            android:textColor="@android:color/black"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/item_image"
+            tools:text="La huérfana: Primer asesinato" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
