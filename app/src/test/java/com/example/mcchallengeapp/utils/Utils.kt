@@ -1,12 +1,6 @@
 package com.example.mcchallengeapp.utils
 
-import android.content.Context
-import androidx.test.platform.app.InstrumentationRegistry
-import com.example.mcchallengeapp.data.entity.GenericResponse
 import com.example.mcchallengeapp.data.entity.MoviesResponse
-import com.google.gson.Gson
-
-val LIST_MOVIES_JSON = GenericResponse(listOf())
 
 val movie = MoviesResponse(
     id = 960704,
@@ -21,12 +15,3 @@ val movie = MoviesResponse(
     releaseDate = "2022-06-24",
     voteCount = 63.0
 )
-
-fun <T> loadJson(fileName: String, kClass: Class<T>): T =
-    Gson().fromJson(
-        JsonAssetsUtils.getJsonFromAssets(
-            InstrumentationRegistry.getInstrumentation().targetContext,
-            fileName
-        ),
-        kClass
-    )
